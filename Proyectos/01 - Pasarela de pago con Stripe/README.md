@@ -48,3 +48,6 @@ Correcciones aportadas por la comunidad. Agrupadas según el lenguaje de program
 
 ### Nombre lenguaje principal
 * Nombre usuario GitHub: [url_repositorio](url_repositorio)
+
+### C#
+* kenysdev: [url_repositorio](https://github.com/Kenysdev/logica-aplicada-proyectos/tree/main/Proyectos/01%20-%20Pasarela%20de%20pago%20con%20Stripe)
